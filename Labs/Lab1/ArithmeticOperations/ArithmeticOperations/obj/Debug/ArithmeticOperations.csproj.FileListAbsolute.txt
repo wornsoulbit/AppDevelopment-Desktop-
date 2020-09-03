@@ -1,0 +1,6 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

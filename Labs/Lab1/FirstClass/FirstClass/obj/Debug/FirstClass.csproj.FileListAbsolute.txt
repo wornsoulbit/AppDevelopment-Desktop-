@@ -1,0 +1,7 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.pdb

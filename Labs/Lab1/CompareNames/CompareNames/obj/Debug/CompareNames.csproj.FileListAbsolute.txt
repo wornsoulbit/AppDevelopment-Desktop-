@@ -1,0 +1,6 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\bin\Debug\CompareNames.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\bin\Debug\CompareNames.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\bin\Debug\CompareNames.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\obj\Debug\CompareNames.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\obj\Debug\CompareNames.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab1\CompareNames\CompareNames\obj\Debug\CompareNames.pdb
