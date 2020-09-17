@@ -1,0 +1,9 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\bin\Debug\CodeDemo.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\bin\Debug\CodeDemo.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\bin\Debug\CodeDemo.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CodeDemo\CodeDemo\obj\Debug\CodeDemo.pdb

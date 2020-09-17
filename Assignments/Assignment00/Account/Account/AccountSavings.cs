@@ -21,12 +21,31 @@ namespace Account {
         }
 
         /// <summary>
+        /// Adds a given amount to the acccount.
+        /// </summary>
+        /// <param name="amount"></param> Amount to be added.
+        public override void Credit(decimal amount)
+        {
+            base.Credit(amount);
+        }
+
+        /// <summary>
+        /// Removes a given amount from a account if there's enough money in the account.
+        /// </summary>
+        /// <param name="amount"></param> Amount to be removed from the account.
+        /// <returns></returns> If it was successful or not.
+        public override bool Debit(decimal amount)
+        {
+            return base.Debit(amount);
+        }
+
+        /// <summary>
         /// Calculates the interest on a account's balance.
         /// </summary>
         /// <returns></returns> The interest on the account's balance.
         public decimal calcInterest()
         {
-            return interestRate * AccBal;
+            return (interestRate / 100) * AccBal;
         }
 
         /// <summary>
@@ -34,14 +53,17 @@ namespace Account {
         /// </summary>
         public override void DisplayAccount()
         {
+            string rFormattedAccNum = String.Format("| Account Number:   |{0,-20:}|", AccNum);
+            string rFormattedAccBal = String.Format("| Account Balance:  |{0,20:C}|", AccBal);
+            string rFormattedInterestRate = String.Format("| Interest Rate:    |{0,20:C}|", calcInterest());
             Console.WriteLine("__________________________________________");
-            Console.WriteLine($"|             Savings Account            |");
+            Console.WriteLine("|{0, 27}{1,14}", "Savings Account", "|");
             Console.WriteLine($"|________________________________________|");
-            Console.WriteLine($"|Account Number     |{AccNum}                |");
+            Console.WriteLine(rFormattedAccNum);
             Console.WriteLine($"|___________________|____________________|");
-            Console.WriteLine($"|Account Balance    |                {AccBal}|");
+            Console.WriteLine(rFormattedAccBal);
             Console.WriteLine($"|___________________|____________________|");
-            Console.WriteLine($"|Interest Rate      |{(interestRate / 100) * AccBal}               |");
+            Console.WriteLine(rFormattedInterestRate);
             Console.WriteLine($"|___________________|____________________|");
         }
     }

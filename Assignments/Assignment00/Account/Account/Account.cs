@@ -14,7 +14,7 @@ namespace Account {
         /// </summary>
         /// <param name="accNum"></param> Number of the account.
         /// <param name="accBal"></param> Balance of the account.
-        public Account(string accNum, decimal accBal)
+        public Account(string accNum, decimal accBal) 
         {
             if (accBal >= 0.0M)
                 this.accBal = accBal;
@@ -31,7 +31,10 @@ namespace Account {
         /// <param name="amount"></param> Amount to be added.
         public virtual void Credit(decimal amount)
         {
-            accBal += amount;
+            if (amount > 0.0M)
+                accBal += amount;
+            else
+                Console.WriteLine("The inputed number needs to be positive.");
         }
 
         /// <summary>
@@ -85,13 +88,15 @@ namespace Account {
         /// Displays the account number and balance.
         /// </summary>
         public virtual void DisplayAccount()
-        { 
+        {
+            string rFormattedAccNum = String.Format("| Account Number:   |{0,-20:}|", AccNum);
+            string rFormattedAccBal = String.Format("| Account Balance:  |{0,20:C}|", AccBal);
             Console.WriteLine("__________________________________________");
-            Console.WriteLine($"|                 Account                |");
+            Console.WriteLine("|{0, 23}{1,18}", "Account", "|");
             Console.WriteLine($"|________________________________________|");
-            Console.WriteLine($"|Account Number     |{accNum}                |");
+            Console.WriteLine(rFormattedAccNum);
             Console.WriteLine($"|___________________|____________________|");
-            Console.WriteLine($"|Account Balance    |                {accBal}|");
+            Console.WriteLine(rFormattedAccBal);
             Console.WriteLine($"|___________________|____________________|");
         }
     }

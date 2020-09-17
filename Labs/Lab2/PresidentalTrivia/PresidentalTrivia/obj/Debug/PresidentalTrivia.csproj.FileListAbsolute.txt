@@ -1,0 +1,9 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\bin\Debug\PresidentalTrivia.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\bin\Debug\PresidentalTrivia.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\bin\Debug\PresidentalTrivia.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PresidentalTrivia\PresidentalTrivia\obj\Debug\PresidentalTrivia.pdb

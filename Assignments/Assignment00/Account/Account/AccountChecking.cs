@@ -52,15 +52,17 @@ namespace Account {
         /// </summary>
         public override void DisplayAccount()
         {
+            string rFormattedAccNum = String.Format("| Account Number:   |{0,-20:}|", AccNum);
+            string rFormattedAccBal = String.Format("| Account Balance:  |{0,20:C}|", AccBal);
+            string rFormattedFee = String.Format("| Transaction Fee:  |{0,20:C}|", fee);
             Console.WriteLine("__________________________________________");
-            Console.WriteLine($"|            Checking Account            |");
+            Console.WriteLine("|{0, 27}{1,14}", "Checking Account", "|");
             Console.WriteLine($"|________________________________________|");
-            Console.WriteLine($"|Account Number     |{AccNum}                |");
+            Console.WriteLine(rFormattedAccNum);
             Console.WriteLine($"|___________________|____________________|");
-            Console.WriteLine($"|Account Balance    |                {AccBal}|");
+            Console.WriteLine(rFormattedAccBal);
             Console.WriteLine($"|___________________|____________________|");
-
-            Console.WriteLine($"|Transaction fee    |{fee}                 |");
+            Console.WriteLine(rFormattedFee);
             Console.WriteLine($"|___________________|____________________|");
         }
     }
