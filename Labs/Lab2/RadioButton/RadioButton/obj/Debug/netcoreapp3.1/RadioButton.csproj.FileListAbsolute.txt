@@ -1,0 +1,30 @@
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.exe
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.deps.json
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.json
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.dev.json
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.dll
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.pdb
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csprojAssemblyReference.cache
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.Form1.resources
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.GenerateResource.cache
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfoInputs.cache
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfo.cs
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.dll
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.pdb
+C:\Users\Dennis Christian\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.genruntimeconfig.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.deps.json
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.json
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.dev.json
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfoInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfo.cs
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.genruntimeconfig.cache

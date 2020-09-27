@@ -1,0 +1,9 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\bin\Debug\GroupBoxPanel.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\bin\Debug\GroupBoxPanel.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\bin\Debug\GroupBoxPanel.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\GroupBoxPanel\GroupBoxPanel\obj\Debug\GroupBoxPanel.pdb

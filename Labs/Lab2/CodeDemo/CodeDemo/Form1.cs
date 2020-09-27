@@ -17,17 +17,7 @@ namespace CodeDemo {
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("You clicked the first button!");
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("You clicked the second button!");
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("You clicked the third button!");
+            MessageBox.Show("You clicked a button!");
         }
     }
 }

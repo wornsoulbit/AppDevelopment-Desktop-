@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\bin\Debug\LabelTextBoxButton.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\bin\Debug\LabelTextBoxButton.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\bin\Debug\LabelTextBoxButton.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\LabelTextBoxButton\LabelTextBoxButton\obj\Debug\LabelTextBoxButton.pdb

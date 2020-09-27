@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CheckBox {
+    public partial class italicCheckBox : Form {
+        public italicCheckBox()
+        {
+            InitializeComponent();
+        }
+
+        private void boldCheckBox_CheckedChanged(object sender, EventArgs e)
+        {
+            label1.Font = new Font(label1.Font, label1.Font.Style ^ FontStyle.Bold);
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            label1.Font = new Font(label1.Font, label1.Font.Style ^ FontStyle.Italic);
+        }
+    }
+}

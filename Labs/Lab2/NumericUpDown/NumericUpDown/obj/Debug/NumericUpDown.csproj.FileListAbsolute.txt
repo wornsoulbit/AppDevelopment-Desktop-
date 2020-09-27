@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csprojAssemblyReference.cache

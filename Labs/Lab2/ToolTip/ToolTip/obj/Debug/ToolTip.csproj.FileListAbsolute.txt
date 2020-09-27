@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\bin\Debug\ToolTip.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\bin\Debug\ToolTip.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\bin\Debug\ToolTip.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\ToolTip\ToolTip\obj\Debug\ToolTip.pdb

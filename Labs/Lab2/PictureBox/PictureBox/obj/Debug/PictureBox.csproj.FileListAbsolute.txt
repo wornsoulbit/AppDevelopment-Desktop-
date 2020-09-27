@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

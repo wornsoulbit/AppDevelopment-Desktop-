@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.italicCheckBox.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab2\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
