@@ -1,0 +1,14 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInhertitanceBase.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInhertitanceBase.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\bin\Debug\VisualInhertitanceBase.dll.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.CopyComplete
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInheritanceTest\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.VisualInheritanceTest.resources

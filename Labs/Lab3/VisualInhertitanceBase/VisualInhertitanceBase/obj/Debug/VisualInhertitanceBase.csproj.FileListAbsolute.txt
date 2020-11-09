@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\bin\Debug\VisualInhertitanceBase.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.VisualInheritanceBase.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\bin\Debug\VisualInhertitanceBase.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\bin\Debug\VisualInhertitanceBase.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\VisualInhertitanceBase\VisualInhertitanceBase\obj\Debug\VisualInhertitanceBase.exe

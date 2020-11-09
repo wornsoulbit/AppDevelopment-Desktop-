@@ -1,0 +1,20 @@
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.exe.config
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.exe
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.pdb
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.Form1.resources
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.Properties.Resources.resources
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.exe
+C:\Users\Alex\source\repos\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\bin\Debug\HugeIntegerGUI.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Assignments\Assignment01\HugeIntegerGUI\HugeIntegerGUI\obj\Debug\HugeIntegerGUI.HugeIntegerForm.resources

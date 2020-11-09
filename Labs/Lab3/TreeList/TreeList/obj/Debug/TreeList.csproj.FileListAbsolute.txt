@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\bin\Debug\TreeList.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\bin\Debug\TreeList.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\bin\Debug\TreeList.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.TreeViewForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TreeList\TreeList\obj\Debug\TreeList.pdb

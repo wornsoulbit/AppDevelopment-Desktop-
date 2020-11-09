@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\bin\Debug\TabControl.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\bin\Debug\TabControl.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\bin\Debug\TabControl.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.TabControlForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\TabControl\TabControl\obj\Debug\TabControl.pdb

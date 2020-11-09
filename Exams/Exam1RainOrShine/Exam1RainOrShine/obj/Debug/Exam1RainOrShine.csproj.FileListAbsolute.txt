@@ -1,0 +1,14 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\bin\Debug\Exam1RainOrShine.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam1RainOrShine\Exam1RainOrShine\obj\Debug\Exam1RainOrShine.pdb

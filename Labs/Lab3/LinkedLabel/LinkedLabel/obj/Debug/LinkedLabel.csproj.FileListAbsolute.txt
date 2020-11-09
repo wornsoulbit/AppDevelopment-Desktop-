@@ -1,0 +1,9 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\bin\Debug\LinkedLabel.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\bin\Debug\LinkedLabel.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\bin\Debug\LinkedLabel.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.LinkedLabels.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\LinkedLabel\LinkedLabel\obj\Debug\LinkedLabel.pdb

@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\bin\Debug\FruitImageViewer.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\bin\Debug\FruitImageViewer.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\bin\Debug\FruitImageViewer.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.FruitImgApp.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Exams\Exam2\FruitImageViewer\FruitImageViewer\obj\Debug\FruitImageViewer.pdb

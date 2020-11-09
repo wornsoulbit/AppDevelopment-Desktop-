@@ -1,0 +1,12 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\bin\Debug\BookDatabase.mdf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\bin\Debug\BookDatabase_log.ldf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\DatabaseInVS.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\DatabaseInVS.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\DatabaseInVS.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb

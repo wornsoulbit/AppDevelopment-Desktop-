@@ -1,0 +1,12 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\bin\Debug\ProductDB.mdf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\bin\Debug\ProductDB_log.ldf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\bin\Debug\ProductQueries.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductQueries\ProductQueries\obj\Debug\ProductQueries.pdb

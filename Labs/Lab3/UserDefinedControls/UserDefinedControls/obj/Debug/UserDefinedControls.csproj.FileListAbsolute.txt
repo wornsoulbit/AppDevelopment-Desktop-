@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.ClockUserControl.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab3\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.ClockExample.resources

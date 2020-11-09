@@ -1,0 +1,12 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\bin\Debug\ProductDB.mdf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\bin\Debug\ProductDB_log.ldf
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\bin\Debug\ProductLookup.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab4\ProductLookup\ProductLookup\obj\Debug\ProductLookup.pdb
