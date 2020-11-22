@@ -1,0 +1,17 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.ReadSequentialAccessForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\ReadSequentialAccessForm.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\ReadSequentialAccessForm.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\ReadSequentialAccessForm.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankLib.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankUIForm.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankLib.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankLib.dll.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankUIForm.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\bin\Debug\BankUIForm.dll.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.csproj.CopyComplete
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\ReadSequentialAccessForm\ReadSequentialAccessForm\obj\Debug\ReadSequentialAccessForm.pdb

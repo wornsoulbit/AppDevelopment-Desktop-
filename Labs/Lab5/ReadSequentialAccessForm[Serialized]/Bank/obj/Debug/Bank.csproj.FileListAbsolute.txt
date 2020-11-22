@@ -1,0 +1,14 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\Bank.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\Bank.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.Form1.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\BankUIForm.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\BankUIForm.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\bin\Debug\BankUIForm.dll.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete

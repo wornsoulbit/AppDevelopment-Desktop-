@@ -1,0 +1,9 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\bin\Debug\BankUIForm.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.BankUIForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\bin\Debug\BankUIForm.dll.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\bin\Debug\BankUIForm.dll
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\BankUIForm\BankUIForm\obj\Debug\BankUIForm.dll

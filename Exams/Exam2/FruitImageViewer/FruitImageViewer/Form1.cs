@@ -68,5 +68,10 @@ namespace FruitImageViewer {
                 fruitLabel.Text = fruitNames[curImg];
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            testLabel.Text = numericUpDown1.Value.ToString();
+        }
     }
 }
