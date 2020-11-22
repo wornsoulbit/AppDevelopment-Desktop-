@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.LINQToFileDirectoryForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\LINQToFileDirectory\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.pdb

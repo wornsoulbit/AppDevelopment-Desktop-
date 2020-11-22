@@ -1,0 +1,10 @@
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\bin\Debug\FileTest.exe.config
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\bin\Debug\FileTest.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\bin\Debug\FileTest.pdb
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.csprojAssemblyReference.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.FileTestForm.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.Properties.Resources.resources
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.csproj.GenerateResource.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.csproj.CoreCompileInputs.cache
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.exe
+D:\Computer Science Code&Homework\SemesterThree\AppDevelopment-Desktop-\Labs\Lab5\FileTest\FileTest\obj\Debug\FileTest.pdb
